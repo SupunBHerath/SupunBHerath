@@ -16,26 +16,3 @@ Let's connect! I'm open to collaborating and learning together with fellow stude
 - Email: [supunbherath@gmail.com](mailto:supunbherath@gmail.com)
 
 Thanks for checking out my GitHub profile. I'm excited to connect with like-minded individuals and embark on this learning journey in the world of technology! 🚀
-
-## Chat with Me
-
-You can also chat with me here! Below is a simple Python code snippet that interacts with a chatbot:
-
-```python
-# Import the chatbot library (replace 'chatbot' with the actual library you're using)
-import chatbot
-
-# Create an instance of the chatbot
-my_chatbot = chatbot.ChatBot()
-
-# Start a conversation
-my_chatbot.start_conversation()
-
-# User input
-user_input = input("You: ")
-
-# Get the chatbot's response
-response = my_chatbot.get_response(user_input)
-
-# Print the response
-print("ChatBot:", response)
