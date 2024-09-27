@@ -1,6 +1,6 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px ></p>
 <h1 align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Supun+B+Herath;Software+Engineer;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+Supun+B+Herath;Full-Stack+Developer;Always+learning+new+things"></a>
 </h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SupunBHerath&label=Profile%20views&color=0e75b6&style=flat" alt="SupunBHerath" /> </p>
 <h3 align="center">"Discovering Tech: A Passionate IT Student's Journey"</h3>
@@ -15,10 +15,13 @@
  - 🧑‍🎓 I  study at **Nalanda IUHS Campus**
    
 - 🌱 I’m currently learning  **MERN**
-  
+    
 - 📫 How to reach me  [supunbherath@gmail.com](mailto:supunbherath@gmail.com)
+
+- 📄 [Download My CV](https://github.com/user-attachments/files/17169085/SupunBHerath.pdf)
 </td>
 <td width="30%" align="center">
+
 
   <img align="center" alt="Coding" width="auto" height="150" src="https://avatars.githubusercontent.com/u/136695038?v=4">
 
