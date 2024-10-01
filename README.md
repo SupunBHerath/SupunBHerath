@@ -10,16 +10,17 @@
 <tr border="none">
 <td width="70%" align="left">
   
-  - 👨‍💻 My name is **Supun B Herath**
-    
- - 🧑‍🎓 I  study at **Nalanda IUHS Campus**
-   
-- 🌱 I’m currently learning  **MERN**
-    
-- 📫 How to reach me  [supunbherath@gmail.com](mailto:supunbherath@gmail.com)
-
-- 📄 [Download My CV](https://github.com/user-attachments/files/17169085/SupunBHerath.pdf)
+  - 👨‍💻 My name is **Supun B Herath**  <br>
+  
+  - 🧑‍🎓 I study at **Nalanda IUHS Campus** <br>
+  
+  - 🌱 I’m currently learning **MERN** <br>
+  
+  - 🌐 [Visit My Portfolio](https://my-portfoilo-flax.vercel.app/) <br>
+  
+  - 📄 [Download My CV](https://github.com/user-attachments/files/17169085/SupunBHerath.pdf) <br>
 </td>
+
 <td width="30%" align="center">
 
 
