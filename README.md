@@ -55,7 +55,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-    <a href="https://www.linkedin.com/in/Supun-B-Herath" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Supun-B-Herath" height="50" width="50" /></a>
+    <a href="https://linkedin.com/in/supun-b-herath-a1881b27b" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Supun-B-Herath" height="50" width="50" /></a>
     <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Supun-B-Herath" height="50" width="50" /></a>
     <a href="#" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Supun-B-Herath" height="50" width="50" /></a>
 
